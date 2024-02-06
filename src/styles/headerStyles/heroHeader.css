@@ -1,0 +1,12 @@
+.frame {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    height: 13vh;
+    width: 100%;
+    top: 0;
+    background-color: #feffff;
+}

@@ -1,0 +1,14 @@
+.describer {
+    display: flex;
+    position: absolute;
+    top: 110%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 3vh;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    border-radius: 0.5vh;
+    background-color: #10161c;
+}

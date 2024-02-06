@@ -1,0 +1,25 @@
+
+/* styles/PageStyles/a4.css */
+.a4-paper {
+    width: 21cm;
+    margin-top: 10%;
+    height: 29.7cm;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 2.5cm;
+    font-size: 16px;
+}
+
+div.DraftEditor-root {
+    border: none;
+    height: 100%;
+    width: 100%;
+    padding: 2.5cm;
+    overflow-y: auto;
+}
+div.DraftEditor-editorContainer,
+div.public-DraftEditor-content {
+height: 100%;
+}
+  
+  

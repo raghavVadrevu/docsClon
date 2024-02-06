@@ -1,0 +1,8 @@
+.frame12 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60%;
+    width: 100%;
+}

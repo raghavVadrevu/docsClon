@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.standardPost {
+    display: flex;
+    height: auto;
+    width: 100%;
+    background-color: #feffff;
+    justify-content: space-around;
+}
